@@ -26,7 +26,7 @@ export default function SingleProduct() {
                 </div>
 
             <Link to={"/"}>
-                <i className="bi bi-arrow-left-circle-fill"></i>
+                <i className="bi bi-house-door-fill"></i>
             </Link>
 
             </div>
