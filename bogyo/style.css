@@ -1,0 +1,89 @@
+
+body {
+    background-color: #cccccc;
+    background-image: radial-gradient(circle, rgb(253, 45, 48), rgb(66, 0, 92));
+    font-family: Verdana, sans-serif;
+    min-height: 400px;           
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    font-weight: bolder;
+    color: black;
+    text-shadow: 5px 5px 10px rgb(255, 47, 47);
+    font-variant: small-caps;
+}
+
+h2, h3 {
+    font-size: 2.5em;
+}
+
+
+#fejlec {
+    width: 100%;
+}
+
+#főcím {
+    text-shadow: 5px 5px 10px rgb(255, 47, 47);
+}
+
+
+.navbar {
+    font-variant: small-caps;
+    font-size: 1.2em;
+    background-color: rgb(58, 1, 86);
+    margin-left: 0;
+}
+
+nav li {
+    padding: 0 15px;
+}
+
+nav li.nav-item {
+    border: 3px dotted red;
+}
+
+
+p {
+    text-align: justify;
+}
+
+.hobbi {
+    border: 2px solid black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
+                0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgb(255, 207, 207);
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+table {
+    background-color: rgb(255, 207, 207);
+}
+
+
+#malna {
+    list-style-image: url('../img/bogyo.png');
+    margin-left: 25px;
+    font-size: 0.9em;
+    line-height: 28px;
+}
+
+
+.lablec {
+    background-color: rgb(66, 0, 92);
+    color: white;
+    padding: 15px 0;
+}
+
+.lablec a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.lablec a:hover {
+    text-transform: uppercase;
+    color: #ffbf00;          /* kellemesebb hover szín */
+}

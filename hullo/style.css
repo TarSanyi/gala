@@ -1,0 +1,52 @@
+/* 14. Rubik betűtípus */
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+/* 15. */
+#fejlec {
+    width: 100%;
+}
+
+/* 16. */
+#felirat {
+    font-weight: bold;
+}
+
+/* 17. Navigáció */
+nav li {
+    border-right: 3px dotted #39FF14;
+    padding: 0 15px;
+}
+
+/* 18. */
+dd {
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+/* 19. */
+.hullo {
+    background-color: rgb(210, 255, 173);
+}
+
+/* 20. */
+.lablec a {
+    text-decoration: none;
+}
+
+/* 21. */
+.lablec a:hover {
+    text-transform: uppercase;
+}
+
+/* 22. */
+#gyik {
+    list-style-image: url('../img/gyik.png');
+    margin-left: 25px;
+}
+
+/* 23. Sorkizárt bekezdések */
+p {
+    text-align: justify;
+}

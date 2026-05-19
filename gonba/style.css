@@ -1,0 +1,86 @@
+body {
+	font-family: cursive;
+    background-image: radial-gradient(rgb(141, 68, 19),rgb(255, 206, 145));
+	font-size: 1.05em;
+}
+
+#fejlec {
+	width: 100%;
+}
+
+h1 {
+	font-weight: bolder;
+	text-shadow: 5px 5px 10px rgb(207, 114, 0);
+}
+
+#főcím {
+	text-shadow: 5px 5px 10px rgb(207, 114, 0);
+}
+
+#erdei p {
+	font-size: 1.05em;
+}
+
+h3 {
+	color: black;
+	font-size: 2.2em;
+	text-shadow: 5px 5px 10px rgb(207, 114, 0);
+	font-variant: small-caps;
+}
+
+.gomba {
+	background-color: #ffd087;
+	border: 2px solid black;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.vonal {
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: black;
+}
+
+table {
+	background-color: #ffd087;
+}
+
+nav li {
+	border-right: 3px dotted rgb(255, 132, 0);
+	padding: 0px 15px;
+	font-size: 4vh;
+}
+
+nav li:last-child {
+	border-right: none;
+}
+
+.lablec {
+	background-color: rgb(63, 22, 11);
+}
+
+.lablec a {
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.lablec a:hover {
+	text-transform: uppercase;
+}
+
+.navbar {
+	font-variant: small-caps;
+	font-size: 1.2em;
+	margin-left: 0;
+	background-color: rgb(88, 51, 20);
+}
+
+#kaja {
+	list-style-image: url('img/gomba.png');
+	margin-left: 25px;
+	font-size: 1.05em;
+	line-height: 28px;
+}
+
+p {
+	text-align: justify;
+}
