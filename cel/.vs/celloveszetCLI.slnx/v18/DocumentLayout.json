@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C884875F-F53A-8489-2F3D-1C380C656F35}|celloveszetWPF\\celloveszetWPF.csproj|c:\\users\\dani\\documents\\kod\\13_asztali\\celloveszetcli\\celloveszetwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C884875F-F53A-8489-2F3D-1C380C656F35}|celloveszetWPF\\celloveszetWPF.csproj|solutionrelative:celloveszetwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C884875F-F53A-8489-2F3D-1C380C656F35}|celloveszetWPF\\celloveszetWPF.csproj|c:\\users\\dani\\documents\\kod\\13_asztali\\celloveszetcli\\celloveszetwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C884875F-F53A-8489-2F3D-1C380C656F35}|celloveszetWPF\\celloveszetWPF.csproj|solutionrelative:celloveszetwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837A8DE7-B9AE-4E37-25F3-B0A459A9CD69}|celloveszetCLI\\celloveszetCLI.csproj|c:\\users\\dani\\documents\\kod\\13_asztali\\celloveszetcli\\celloveszetcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837A8DE7-B9AE-4E37-25F3-B0A459A9CD69}|celloveszetCLI\\celloveszetCLI.csproj|solutionrelative:celloveszetcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837A8DE7-B9AE-4E37-25F3-B0A459A9CD69}|celloveszetCLI\\celloveszetCLI.csproj|c:\\users\\dani\\documents\\kod\\13_asztali\\celloveszetcli\\celloveszetcli\\lovesz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837A8DE7-B9AE-4E37-25F3-B0A459A9CD69}|celloveszetCLI\\celloveszetCLI.csproj|solutionrelative:celloveszetcli\\lovesz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\celloveszetWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "celloveszetWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\celloveszetWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "celloveszetWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:15:51.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\celloveszetWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "celloveszetWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\celloveszetWPF\\MainWindow.xaml",
+              "RelativeToolTip": "celloveszetWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T08:14:32.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\celloveszetCLI\\Program.cs",
+              "RelativeDocumentMoniker": "celloveszetCLI\\Program.cs",
+              "ToolTip": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\celloveszetCLI\\Program.cs",
+              "RelativeToolTip": "celloveszetCLI\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:13:57.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lovesz.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\celloveszetCLI\\Lovesz.cs",
+              "RelativeDocumentMoniker": "celloveszetCLI\\Lovesz.cs",
+              "ToolTip": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\celloveszetCLI\\Lovesz.cs",
+              "RelativeToolTip": "celloveszetCLI\\Lovesz.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:13:43.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

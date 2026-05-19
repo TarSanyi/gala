@@ -1,0 +1,16 @@
+C:\Users\Dani\Documents\Kod\13_Asztali\EvVegiArakCLI\EvVegiArakCLI\obj\Debug\net8.0\ArakCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\Documents\Kod\13_Asztali\EvVegiArakCLI\EvVegiArakCLI\obj\Debug\net8.0\ArakCLI.AssemblyInfoInputs.cache
+C:\Users\Dani\Documents\Kod\13_Asztali\EvVegiArakCLI\EvVegiArakCLI\obj\Debug\net8.0\ArakCLI.AssemblyInfo.cs
+C:\Users\Dani\Documents\Kod\13_Asztali\EvVegiArakCLI\EvVegiArakCLI\obj\Debug\net8.0\ArakCLI.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Documents\Kod\13_Asztali\EvVegiArakCLI\EvVegiArakCLI\obj\Debug\net8.0\ArakCLI.sourcelink.json
+C:\Users\Dani\Documents\Kod\13_Asztali\EvVegiArakCLI\EvVegiArakCLI\bin\Debug\net8.0\ArakCLI.exe
+C:\Users\Dani\Documents\Kod\13_Asztali\EvVegiArakCLI\EvVegiArakCLI\bin\Debug\net8.0\Arak2024.txt
+C:\Users\Dani\Documents\Kod\13_Asztali\EvVegiArakCLI\EvVegiArakCLI\bin\Debug\net8.0\ArakCLI.deps.json
+C:\Users\Dani\Documents\Kod\13_Asztali\EvVegiArakCLI\EvVegiArakCLI\bin\Debug\net8.0\ArakCLI.runtimeconfig.json
+C:\Users\Dani\Documents\Kod\13_Asztali\EvVegiArakCLI\EvVegiArakCLI\bin\Debug\net8.0\ArakCLI.dll
+C:\Users\Dani\Documents\Kod\13_Asztali\EvVegiArakCLI\EvVegiArakCLI\bin\Debug\net8.0\ArakCLI.pdb
+C:\Users\Dani\Documents\Kod\13_Asztali\EvVegiArakCLI\EvVegiArakCLI\obj\Debug\net8.0\ArakCLI.dll
+C:\Users\Dani\Documents\Kod\13_Asztali\EvVegiArakCLI\EvVegiArakCLI\obj\Debug\net8.0\refint\ArakCLI.dll
+C:\Users\Dani\Documents\Kod\13_Asztali\EvVegiArakCLI\EvVegiArakCLI\obj\Debug\net8.0\ArakCLI.pdb
+C:\Users\Dani\Documents\Kod\13_Asztali\EvVegiArakCLI\EvVegiArakCLI\obj\Debug\net8.0\ArakCLI.genruntimeconfig.cache
+C:\Users\Dani\Documents\Kod\13_Asztali\EvVegiArakCLI\EvVegiArakCLI\obj\Debug\net8.0\ref\ArakCLI.dll

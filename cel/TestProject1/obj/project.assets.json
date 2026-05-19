@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "celloveszetCLI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/celloveszetCLI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/celloveszetCLI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "celloveszetCLI/1.0.0": {
+      "type": "project",
+      "path": "../celloveszetCLI/celloveszetCLI.csproj",
+      "msbuildProject": "../celloveszetCLI/celloveszetCLI.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "MSTest >= 4.0.2",
+      "celloveszetCLI >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Dani\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\TestProject1\\TestProject1.csproj",
+      "projectName": "TestProject1",
+      "projectPath": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\TestProject1\\TestProject1.csproj",
+      "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\TestProject1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\celloveszetCLI\\celloveszetCLI.csproj": {
+              "projectPath": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\celloveszetCLI\\celloveszetCLI.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "framework": "net8.0",
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "MSTest": {
+            "target": "Package",
+            "version": "[4.0.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package MSTest. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "MSTest",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

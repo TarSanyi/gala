@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA8F9B6-A864-518B-A7A1-69EB113DFFDB}|EvVegiArakCLI\\ArakCLI.csproj|c:\\users\\dani\\documents\\kod\\13_asztali\\evvegiarakcli\\evvegiarakcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA8F9B6-A864-518B-A7A1-69EB113DFFDB}|EvVegiArakCLI\\ArakCLI.csproj|solutionrelative:evvegiarakcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5848E20A-C96E-4624-9879-4926946F11C9}|ArakWPF\\ArakWPF.csproj|c:\\users\\dani\\documents\\kod\\13_asztali\\evvegiarakcli\\arakwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5848E20A-C96E-4624-9879-4926946F11C9}|ArakWPF\\ArakWPF.csproj|solutionrelative:arakwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5848E20A-C96E-4624-9879-4926946F11C9}|ArakWPF\\ArakWPF.csproj|c:\\users\\dani\\documents\\kod\\13_asztali\\evvegiarakcli\\arakwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5848E20A-C96E-4624-9879-4926946F11C9}|ArakWPF\\ArakWPF.csproj|solutionrelative:arakwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA8F9B6-A864-518B-A7A1-69EB113DFFDB}|EvVegiArakCLI\\ArakCLI.csproj|c:\\users\\dani\\documents\\kod\\13_asztali\\evvegiarakcli\\evvegiarakcli\\arak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA8F9B6-A864-518B-A7A1-69EB113DFFDB}|EvVegiArakCLI\\ArakCLI.csproj|solutionrelative:evvegiarakcli\\arak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61D6DE7-2B41-43AB-BD35-6ACC7BDA944C}|TestProject\u0027\\TestProject\u0027.csproj|c:\\users\\dani\\documents\\kod\\13_asztali\\evvegiarakcli\\testproject\u0027\\testproject\u0027.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C61D6DE7-2B41-43AB-BD35-6ACC7BDA944C}|TestProject\u0027\\TestProject\u0027.csproj|solutionrelative:testproject\u0027\\testproject\u0027.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5848E20A-C96E-4624-9879-4926946F11C9}|ArakWPF\\ArakWPF.csproj|c:\\users\\dani\\documents\\kod\\13_asztali\\evvegiarakcli\\arakwpf\\arakwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5848E20A-C96E-4624-9879-4926946F11C9}|ArakWPF\\ArakWPF.csproj|solutionrelative:arakwpf\\arakwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA8F9B6-A864-518B-A7A1-69EB113DFFDB}|EvVegiArakCLI\\ArakCLI.csproj|c:\\users\\dani\\documents\\kod\\13_asztali\\evvegiarakcli\\evvegiarakcli\\arakcli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EA8F9B6-A864-518B-A7A1-69EB113DFFDB}|EvVegiArakCLI\\ArakCLI.csproj|solutionrelative:evvegiarakcli\\arakcli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\EvVegiArakCLI\\Program.cs",
+              "RelativeDocumentMoniker": "EvVegiArakCLI\\Program.cs",
+              "ToolTip": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\EvVegiArakCLI\\Program.cs",
+              "RelativeToolTip": "EvVegiArakCLI\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:28:44.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestProject\u0027",
+              "DocumentMoniker": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\TestProject\u0027\\TestProject\u0027.csproj",
+              "RelativeDocumentMoniker": "TestProject\u0027\\TestProject\u0027.csproj",
+              "ToolTip": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\TestProject\u0027\\TestProject\u0027.csproj",
+              "RelativeToolTip": "TestProject\u0027\\TestProject\u0027.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-19T08:27:51.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArakCLI",
+              "DocumentMoniker": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\EvVegiArakCLI\\ArakCLI.csproj",
+              "RelativeDocumentMoniker": "EvVegiArakCLI\\ArakCLI.csproj",
+              "ToolTip": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\EvVegiArakCLI\\ArakCLI.csproj",
+              "RelativeToolTip": "EvVegiArakCLI\\ArakCLI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-19T08:23:50.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\ArakWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ArakWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\ArakWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ArakWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:20:45.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\ArakWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ArakWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\ArakWPF\\MainWindow.xaml",
+              "RelativeToolTip": "ArakWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-19T08:20:32.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArakWPF",
+              "DocumentMoniker": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\ArakWPF\\ArakWPF.csproj",
+              "RelativeDocumentMoniker": "ArakWPF\\ArakWPF.csproj",
+              "ToolTip": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\ArakWPF\\ArakWPF.csproj",
+              "RelativeToolTip": "ArakWPF\\ArakWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-19T08:20:29.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Arak.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\EvVegiArakCLI\\Arak.cs",
+              "RelativeDocumentMoniker": "EvVegiArakCLI\\Arak.cs",
+              "ToolTip": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\EvVegiArakCLI\\Arak.cs",
+              "RelativeToolTip": "EvVegiArakCLI\\Arak.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:20:26.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

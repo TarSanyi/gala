@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "sL1LC5Z+EK0=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package MSTest. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\TestProject1\\TestProject1.csproj",
+      "filePath": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\celloveszetCLI\\TestProject1\\TestProject1.csproj",
+      "libraryId": "MSTest",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

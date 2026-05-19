@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "QeZOmFRNv40=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\TestProject'\\TestProject'.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dani\\.nuget\\packages\\mstest.testadapter\\3.1.1\\mstest.testadapter.3.1.1.nupkg.sha512",
+    "C:\\Users\\Dani\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "TestProject' depends on MSTest.TestAdapter (>= 3.0.5) but MSTest.TestAdapter 3.0.5 was not found. MSTest.TestAdapter 3.1.1 was resolved instead.",
+      "projectPath": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\TestProject'\\TestProject'.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\TestProject'\\TestProject'.csproj",
+      "libraryId": "MSTest.TestAdapter",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "TestProject' depends on MSTest.TestFramework (>= 3.0.5) but MSTest.TestFramework 3.0.5 was not found. MSTest.TestFramework 3.1.1 was resolved instead.",
+      "projectPath": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\TestProject'\\TestProject'.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Dani\\Documents\\Kod\\13_Asztali\\EvVegiArakCLI\\TestProject'\\TestProject'.csproj",
+      "libraryId": "MSTest.TestFramework",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
